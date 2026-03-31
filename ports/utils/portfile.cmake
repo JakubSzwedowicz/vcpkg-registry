@@ -2,7 +2,7 @@ vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO JakubSzwedowicz/utils
     REF "v${VERSION}"
-    SHA512 ae3b34a69dd03b68aafb50ee3669ffc55afd96ae268ceed25b3f95d91c4700c7bfe3eb0172c07727f46b1c2ecd464656b1847cc312ec1ad4099d3f4a6d45eaa5
+    SHA512 dbe82d36f1cb389f94bc8832b5848e77c15af88eafc711fbf8a4fcd0c22203f89fe119b839d0b2e675482babda0e2d0a1cb5c608b0bd6787944d6dd26dd41401
     HEAD_REF develop
 )
 
